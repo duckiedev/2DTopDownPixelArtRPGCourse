@@ -1,0 +1,8 @@
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\bin\Debug\2DTopDownPixelArtRPGCourse.dll
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\bin\Debug\2DTopDownPixelArtRPGCourse.pdb
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\obj\Debug\2DTopDownPixelArtRPGCourse.csprojAssemblyReference.cache
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\obj\Debug\2DTopDownPixelArtRPGCourse.AssemblyInfoInputs.cache
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\obj\Debug\2DTopDownPixelArtRPGCourse.AssemblyInfo.cs
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\obj\Debug\2DTopDownPixelArtRPGCourse.csproj.CoreCompileInputs.cache
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\obj\Debug\2DTopDownPixelArtRPGCourse.dll
+C:\Users\jshir\Documents\2DTopDownPixelArtRPGCourse\.mono\temp\obj\Debug\2DTopDownPixelArtRPGCourse.pdb
